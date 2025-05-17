@@ -11,9 +11,9 @@ This repository contains Python programs and Tkinter-based GUI applications deve
 |-----|-------------------------------|------------------------------------|-------------|
 | 1   | `1_Arithmetic_Quadratic.py`   | Arithmetic & Quadratic Calculator  | Simple input-based calculator for basic and quadratic operations |
 | 2   | `2_Linear_Equation.py`        | Linear Equation Solver             | Solves two-variable linear equations using NumPy |
-| 3   | `3_Graph_Math_Star.py`        | Star Graph Plot                    | Uses `matplotlib` to create a polar star graph |
-| 4   | `4_Function_Example.py`       | Function Implementation            | Demonstrates defining and using functions in Python |
-| 5   | `5_Snake_Game.py`             | Snake Game                         | Classic Snake game using `Tkinter` |
+| 3   | `3_Star Graph.py`        | Star Graph Plot                    | Uses `matplotlib` to create a polar star graph |
+| 4   | `4_Implementation of Function.py`       | Function Implementation            | Demonstrates defining and using functions in Python |
+| 5   | `5_Snake_Tinker.py`             | Snake Game                         | Classic Snake game using `Tkinter` |
 
 ---
 
