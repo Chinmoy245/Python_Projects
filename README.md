@@ -14,8 +14,6 @@ This repository contains Python programs and Tkinter-based GUI applications deve
 | 3   | `3_Graph_Math_Star.py`        | Star Graph Plot                    | Uses `matplotlib` to create a polar star graph |
 | 4   | `4_Function_Example.py`       | Function Implementation            | Demonstrates defining and using functions in Python |
 | 5   | `5_Snake_Game.py`             | Snake Game                         | Classic Snake game using `Tkinter` |
-| 6   | `6_Tetris_Game.py`            | Tetris Game                        | Block-dropping Tetris game with keyboard controls |
-| 7   | `7_Card_Block_Game.py`        | Card Memory Flip Game              | Match-the-pair card flip game using Tkinter |
 
 ---
 
