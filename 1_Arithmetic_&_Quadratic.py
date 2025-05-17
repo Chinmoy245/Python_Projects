@@ -31,13 +31,15 @@ def solve_quadratic(a, b, c):
 
 
 # Main Code
-# Input values
-a1 = 10
-b1 = 5
-
-# Arithmetic operations
+# Taking input for arithmetic operations
+print("Enter two numbers for arithmetic operations:")
+a1 = float(input("Enter first number (a): "))
+b1 = float(input("Enter second number (b): "))
 arithmetic_operations(a1, b1)
 
-# Quadratic equation: ax² + bx + c = 0
-a2, b2, c2 = 1, -3, 2  # This will give real roots 2 and 1
+# Taking input for quadratic equation
+print("Enter coefficients for quadratic equation ax² + bx + c = 0:")
+a2 = float(input("Enter coefficient a: "))
+b2 = float(input("Enter coefficient b: "))
+c2 = float(input("Enter coefficient c: "))
 solve_quadratic(a2, b2, c2)
